@@ -1,0 +1,20 @@
+{
+    "a": "Yde Group",
+    "b": "0759 698 852",
+    "c": "Appointment of directors and changes in administrative roles.",
+    "d": {
+        "director_appointments": [
+            {
+                "name": "Mr. Khalid Muhammad",
+                "position": "Director",
+                "effective_date": "2023-11-01"
+            },
+            {
+                "name": "Mr. Asghar Muhammad",
+                "position": "Administrator",
+                "effective_date": "2023-11-01",
+                "status": "Removed"
+            }
+        ]
+    }
+}

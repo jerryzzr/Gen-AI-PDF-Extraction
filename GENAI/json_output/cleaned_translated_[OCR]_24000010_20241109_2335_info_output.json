@@ -1,0 +1,28 @@
+{
+    "a": "Monitor Coic",
+    "b": "426239675",
+    "c": "Renewal of the Board of Directors",
+    "d": {
+        "Directors": [
+            {
+                "Name": "Mr. Jean Simons",
+                "Position": "Administrator",
+                "Effective Date": "2023-10-02",
+                "Address": "avenue Sleeckx 44 BTE 3 A 1030 Schaerbeek"
+            },
+            {
+                "Name": "Madame Brigitte Schrurs",
+                "Position": "Administrator",
+                "Effective Date": "2023-10-02",
+                "Address": "avenue Sleeckx 44 BTE1 - 1030 Schaerbeek"
+            },
+            {
+                "Name": "Madame Madeleine Simons",
+                "Position": "Administrator",
+                "Effective Date": "2023-10-02",
+                "Address": "avenue Sleeckx 44 BTE 5 A 1030 Schaerbeek"
+            }
+        ],
+        "Mandates Duration": "3 years"
+    }
+}

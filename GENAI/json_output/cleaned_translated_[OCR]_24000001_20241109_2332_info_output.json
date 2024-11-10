@@ -1,0 +1,35 @@
+{
+    "a": "Adam Partnership",
+    "b": "0567 779 701",
+    "c": "Resignation and appointment of managers, assignment of shares.",
+    "d": {
+        "resignation": {
+            "name": "M. El Akili Idriss",
+            "position": "manager",
+            "effective_date": "December 14, 2023"
+        },
+        "appointment": {
+            "name": "M. El Akili IMAD",
+            "position": "administrator",
+            "effective_date": "November 9, 2024",
+            "duration": "indeterminate"
+        },
+        "share_assignment": [
+            {
+                "from": "Mme PITUL SiMONA",
+                "to": "Mme THE AKILI MAJDA",
+                "number_of_shares": 5
+            },
+            {
+                "from": "Mrs. Moustaouddi Salima",
+                "to": "Mrs. El Akili Majda",
+                "number_of_shares": 5
+            },
+            {
+                "from": "M. EL Mind Idriss",
+                "to": "Mme El Mind Majda",
+                "number_of_shares": 25
+            }
+        ]
+    }
+}

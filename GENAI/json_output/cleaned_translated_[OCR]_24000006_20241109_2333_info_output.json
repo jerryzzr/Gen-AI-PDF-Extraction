@@ -1,0 +1,50 @@
+{
+    "Company Name": "Biocodex Benelux",
+    "Company Identifier": "0401 936 623",
+    "Document Purpose": "The document outlines the renewal of mandates for the administrators and the appointment of legal representatives for the company.",
+    "Additional Information": {
+        "Administrator Renewal": [
+            {
+                "Name": "Francois Hublot",
+                "Position": "Administrator-delegue",
+                "Effective Date": "January 1, 2023",
+                "Duration": "3 years",
+                "End Date": "After ordinary general assumptions in 2026"
+            },
+            {
+                "Name": "Jean-Marie Lefevre",
+                "Position": "Administrator",
+                "Effective Date": "January 1, 2023",
+                "Duration": "3 years",
+                "End Date": "After ordinary general assumptions in 2026"
+            }
+        ],
+        "Permanent Representative": {
+            "Name": "Nicolas Coudurier",
+            "Position": "Permanent Representative of the Soci\u00e9t\u00e9 par actions simplifi\u00e9e Frangal Biocodex"
+        },
+        "Auditor": {
+            "Firm Name": "SRL CDP Petit Co",
+            "Representative": "Benjamin Gorlier",
+            "Mandate Duration": "3 years"
+        },
+        "Legal Representatives": [
+            {
+                "Name": "Lindsey Schamp",
+                "Firm": "SRL Bofidi Accountants"
+            },
+            {
+                "Name": "Wendy Defreyne"
+            },
+            {
+                "Name": "Sylvia Vanbeveren"
+            },
+            {
+                "Name": "Eva Thielemans"
+            },
+            {
+                "Name": "Tine Talpe"
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "a": "IA SOCIETE LOLA BILLY SPR",
+    "b": "07666838151",
+    "c": "Appointment and transfer of shares during an extraordinary assembly.",
+    "d": {
+        "appointment": {
+            "resignation": {
+                "director": "Mr. Jalil KALID",
+                "effective_date": "December 31, 2023"
+            },
+            "new_appointment": {
+                "director": "Mr. El Marnissi Mhamed Bilal",
+                "effective_date": "January 1, 2024"
+            }
+        },
+        "share_transfer": {
+            "from": "Mr. Jalil KALID",
+            "to": "Mr. El Marnissi Mhamed Bilal",
+            "number_of_shares": 5
+        },
+        "share_distribution": {
+            "Madame Jalil Najet": 95,
+            "Mr. El Marnissi Mhamed Bilal": 5,
+            "total_shares": 100
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "a": "Jans in Abrege",
+    "b": "415121990",
+    "c": "Renewal of the Board of Directors",
+    "d": {
+        "Directors Appointed": [
+            {
+                "Name": "Mr. Jean SIMONS",
+                "Position": "Administrator",
+                "Effective Date": "October 2, 2023",
+                "Address": "avenue SIEECKX 44 BTE 3 A 1030 Schaerbeek"
+            },
+            {
+                "Name": "Madame Brigitte SCHRURS",
+                "Position": "Administrator",
+                "Effective Date": "October 2, 2023",
+                "Address": "avenue SLEECKX 44 BTE1 - 1030 SCHAERBEEK"
+            },
+            {
+                "Name": "Madame Madeleine Simons",
+                "Position": "Administrator",
+                "Effective Date": "October 2, 2023",
+                "Address": "avenue Sieeckx 44 BTE 5 A 1030 Schaerbeek"
+            }
+        ],
+        "Mandate Duration": "3 years"
+    }
+}

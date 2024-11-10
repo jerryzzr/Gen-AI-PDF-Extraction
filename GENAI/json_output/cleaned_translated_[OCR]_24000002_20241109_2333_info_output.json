@@ -1,0 +1,23 @@
+{
+    "a. Company Name": "Quick Entreprise",
+    "b. Company Identifier": "0795 785 723",
+    "c. Document Purpose": "Nomination Director, Director Change",
+    "d. Additional Information": {
+        "Directors": [
+            {
+                "Name": "Mr. Zulfiqar Ahmed Malik",
+                "Position": "Director",
+                "Effective Date": "11122023"
+            },
+            {
+                "Name": "Mr. ASGHAR MUHAMMAD",
+                "Position": "Director",
+                "Effective Date": "11122023"
+            }
+        ],
+        "Seat Transfer": {
+            "New Address": "Chaussee dEnghien 294 -1480 Tubize",
+            "Effective Date": "11122023"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "a": "Brussel Shop",
+    "b": "0726 808 924",
+    "c": "Transfer of shares and changes in share distribution following the extraordinary general assembly.",
+    "d": {
+        "Transfer Seat": {
+            "New Address": "Chaussee dIxelles 25 - 1050 Ixelles",
+            "Effective Date": "01-09-2023"
+        },
+        "Share Distribution": [
+            {
+                "Name": "Baloch Bakhtyar",
+                "Shares": 99100
+            },
+            {
+                "Name": "Fazal Karim",
+                "Shares": 1100
+            },
+            {
+                "Name": "Hassan Naqibullah",
+                "Shares": 0
+            }
+        ],
+        "Decision Date": "01-09-2023"
+    }
+}
