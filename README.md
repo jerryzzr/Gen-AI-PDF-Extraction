@@ -27,11 +27,11 @@ This Jupyter Notebook demonstrates the process of extracting key pieces of infor
 ### 5. **JSON Output**  
    - After extracting the key information, the notebook generates a structured JSON output that can be easily consumed by other applications or systems.
 ## Folder Structure Explanation
-1. original files: This folder contains the original PDF files to be processed.
-2. text extract: In this folder, you'll find the text extracted from the PDF files in their raw form.
-3. translated: This folder holds the translated text files, where the content has been converted into the desired language.
-4. cleaned: Here, you'll find the text files that have undergone preprocessing, including text cleaning and formatting adjustments.
-5. json_output: This is where the final output is stored, containing the structured information (Company Name, Company Identifier, and Document Purpose) in JSON format.
+1. **original files**: This folder contains the original PDF files to be processed.
+2. **text extract**: In this folder, you'll find the text extracted from the PDF files in their raw form.
+3. **translated**: This folder holds the translated text files, where the content has been converted into the desired language.
+4. **cleaned**: Here, you'll find the text files that have undergone preprocessing, including text cleaning and formatting adjustments.
+5. **json_output**: This is where the final output is stored, containing the structured information (Company Name, Company Identifier, and Document Purpose) in JSON format.
 ## Workflow
 
 1. **Upload Input Files**: Upload text or OCR-extracted text files for processing.
